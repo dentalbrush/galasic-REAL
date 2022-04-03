@@ -28,7 +28,7 @@ header #header-bar > .row {
 }
 
 html { 
-	--mainColor: #888;
+	--mainColor: rgb(121, 122, 138);
 	--borderColor: #DDD;
 	--frameColor: #FFF;
 }
@@ -58,7 +58,7 @@ header .row>div:nth-child(1)>a {
   width: 400px;
   height: 100px;
   background-size: auto 100px;
-  background: url("https://cdn.discordapp.com/attachments/960076589117358132/960079301255000114/982c483b633ac650.png") no-repeat;
+  background: url("https://cdn.discordapp.com/attachments/960076589117358132/960146448215859280/3ebcc6d6a993dbcd.png") no-repeat;
 }
 
 header #right-search-form { display: inline-flex; padding-top: 12px; }
