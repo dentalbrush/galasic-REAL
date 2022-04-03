@@ -170,12 +170,12 @@ header #header-bar #header-menu-right #userDropdown #notification-badge {
 }
 
 #board-info #viewers-area #viewers:before {
-    content: ""; /* 접속자 수 앞 문구 */
+    content: "어서오세요 :->"; /* 접속자 수 앞 문구 */
     cursor: text;
 }
 
 #board-info #viewers-area #viewers:after {
-    content: ""; /* 접속자 수 뒤 문구 */
+    content: "명의 사람들이 게시판을 보고 있어요!"; /* 접속자 수 뒤 문구 */
     cursor: text;
 }
 
