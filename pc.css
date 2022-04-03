@@ -1,17 +1,17 @@
 :root {
 
-  --color-0: #ffffff; /* box color */
+  --color-0: #ffffff00; /* box color */
 
 
-  --color-1: #cceecc; /* */
+  --color-1: #ffffff00; /* */
 
-  --color-2: #e3f1af; /* */
+  --color-2: #ffffff00; /* */
 
-  --color-3: #8a7ab1; /* main color */
+  --color-3: #ffffff00; /* main color */
 
-  --color-4: #6ba39f; /* sub  color */
+  --color-4: #ffffff00; /* sub  color */
 
-  --color-5: #cff1af; /* */
+  --color-5: #ffffff00; /* */
 
 }
 
@@ -48,6 +48,7 @@ a:hover,
 a:focus { color: #333; }
 
 /* 트게더 로고 */
+
 /*header .row>div:nth-child(1)>a {
     display: block;
     width: 200px;
@@ -59,6 +60,7 @@ a:focus { color: #333; }
 /* 기본 트게더 로고 제거 */
 /* header .row>div:nth-child(1) > a > img { display: none; } */
 
+header .row>div:nth-child(1) > a > img { display: none; }
 header .row>div:nth-child(1)>a {
   display: block;
   width: 200px;
